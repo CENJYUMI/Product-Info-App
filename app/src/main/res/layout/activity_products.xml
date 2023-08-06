@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAD8D8"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Products">
+
+        <TextView
+            android:id="@+id/products"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/app_products"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/glowBomb"
+            android:layout_width="256dp"
+            android:layout_height="248dp"
+            android:layout_marginTop="32dp"
+            app:layout_constraintEnd_toEndOf="@+id/products"
+            app:layout_constraintStart_toStartOf="@+id/products"
+            app:layout_constraintTop_toBottomOf="@+id/products"
+            app:srcCompat="@drawable/glowbomb" />
+
+        <TextView
+            android:id="@+id/txtProductPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_glowBombPrice"
+            app:layout_constraintEnd_toEndOf="@+id/txtGlowBomb"
+            app:layout_constraintStart_toStartOf="@+id/txtGlowBomb"
+            app:layout_constraintTop_toBottomOf="@+id/txtGlowBomb" />
+
+        <ImageView
+            android:id="@+id/radiant"
+            android:layout_width="256dp"
+            android:layout_height="248dp"
+            android:layout_marginTop="32dp"
+            app:layout_constraintEnd_toEndOf="@+id/glowBomb"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/glowBomb"
+            app:layout_constraintTop_toBottomOf="@+id/txtGlowBomb"
+            app:srcCompat="@drawable/radiantboost" />
+
+        <TextView
+            android:id="@+id/txtProductPrice2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_radiantPrice"
+            app:layout_constraintEnd_toEndOf="@+id/txtRadiant"
+            app:layout_constraintStart_toStartOf="@+id/txtRadiant"
+            app:layout_constraintTop_toBottomOf="@+id/txtRadiant" />
+
+        <TextView
+            android:id="@+id/txtProductPrice3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_DERMEXFOPrice"
+            app:layout_constraintEnd_toEndOf="@+id/txtDermExfo"
+            app:layout_constraintStart_toStartOf="@+id/txtDermExfo"
+            app:layout_constraintTop_toBottomOf="@+id/txtDermExfo" />
+
+        <TextView
+            android:id="@+id/txtProductPrice4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_glowboostPrice"
+            app:layout_constraintEnd_toEndOf="@+id/txtGlowBoost"
+            app:layout_constraintHorizontal_bias="0.505"
+            app:layout_constraintStart_toStartOf="@+id/txtGlowBoost"
+            app:layout_constraintTop_toBottomOf="@+id/txtGlowBoost" />
+
+        <TextView
+            android:id="@+id/txtProductPrice5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_beautylotionPrice"
+            app:layout_constraintEnd_toEndOf="@+id/txtBeautyLotion"
+            app:layout_constraintStart_toStartOf="@+id/txtBeautyLotion"
+            app:layout_constraintTop_toBottomOf="@+id/txtBeautyLotion" />
+
+        <TextView
+            android:id="@+id/txtProductPrice6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_vagicarePrice"
+            app:layout_constraintEnd_toEndOf="@+id/txtVagicare"
+            app:layout_constraintStart_toStartOf="@+id/txtVagicare"
+            app:layout_constraintTop_toBottomOf="@+id/txtVagicare" />
+
+        <TextView
+            android:id="@+id/txtProductPrice7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_SLAYPrice"
+            app:layout_constraintEnd_toEndOf="@+id/txtSlayTheDay"
+            app:layout_constraintStart_toStartOf="@+id/txtSlayTheDay"
+            app:layout_constraintTop_toBottomOf="@+id/txtSlayTheDay" />
+
+        <TextView
+            android:id="@+id/txtProductPrice8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_purePrice"
+            app:layout_constraintEnd_toEndOf="@+id/txtPureInnocence"
+            app:layout_constraintStart_toStartOf="@+id/txtPureInnocence"
+            app:layout_constraintTop_toBottomOf="@+id/txtPureInnocence" />
+
+        <ImageView
+            android:id="@+id/dermExfo"
+            android:layout_width="256dp"
+            android:layout_height="248dp"
+            android:layout_marginTop="32dp"
+            app:layout_constraintEnd_toEndOf="@+id/radiant"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="@+id/radiant"
+            app:layout_constraintTop_toBottomOf="@+id/txtRadiant"
+            app:srcCompat="@drawable/dermexfo" />
+
+        <ImageView
+            android:id="@+id/glowBoost"
+            android:layout_width="256dp"
+            android:layout_height="248dp"
+            android:layout_marginTop="32dp"
+            app:layout_constraintEnd_toEndOf="@+id/dermExfo"
+            app:layout_constraintStart_toStartOf="@+id/dermExfo"
+            app:layout_constraintTop_toBottomOf="@+id/txtDermExfo"
+            app:srcCompat="@drawable/glowboost" />
+
+        <ImageView
+            android:id="@+id/beautyLotion"
+            android:layout_width="256dp"
+            android:layout_height="248dp"
+            android:layout_marginTop="32dp"
+            app:layout_constraintEnd_toEndOf="@+id/glowBoost"
+            app:layout_constraintStart_toStartOf="@+id/glowBoost"
+            app:layout_constraintTop_toBottomOf="@+id/txtGlowBoost"
+            app:srcCompat="@drawable/beautylotion" />
+
+        <ImageView
+            android:id="@+id/vagicare"
+            android:layout_width="256dp"
+            android:layout_height="248dp"
+            android:layout_marginTop="32dp"
+            app:layout_constraintEnd_toEndOf="@+id/beautyLotion"
+            app:layout_constraintStart_toStartOf="@+id/beautyLotion"
+            app:layout_constraintTop_toBottomOf="@+id/txtBeautyLotion"
+            app:srcCompat="@drawable/vagicare" />
+
+        <ImageView
+            android:id="@+id/slayTheDay"
+            android:layout_width="256dp"
+            android:layout_height="248dp"
+            android:layout_marginTop="32dp"
+            app:layout_constraintEnd_toEndOf="@+id/vagicare"
+            app:layout_constraintStart_toStartOf="@+id/vagicare"
+            app:layout_constraintTop_toBottomOf="@+id/txtVagicare"
+            app:srcCompat="@drawable/slaythedayperfume" />
+
+        <ImageView
+            android:id="@+id/pureInnocence"
+            android:layout_width="256dp"
+            android:layout_height="248dp"
+            android:layout_marginTop="32dp"
+            app:layout_constraintEnd_toEndOf="@+id/slayTheDay"
+            app:layout_constraintStart_toStartOf="@+id/slayTheDay"
+            app:layout_constraintTop_toBottomOf="@+id/txtSlayTheDay"
+            app:srcCompat="@drawable/pure" />
+
+        <TextView
+            android:id="@+id/txtGlowBomb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="@string/app_glowbomb"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/glowBomb"
+            app:layout_constraintHorizontal_bias="0.506"
+            app:layout_constraintStart_toStartOf="@+id/glowBomb"
+            app:layout_constraintTop_toBottomOf="@+id/glowBomb" />
+
+        <TextView
+            android:id="@+id/txtRadiant"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="@string/app_radiant"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/radiant"
+            app:layout_constraintHorizontal_bias="0.8"
+            app:layout_constraintStart_toStartOf="@+id/radiant"
+            app:layout_constraintTop_toBottomOf="@+id/radiant" />
+
+        <TextView
+            android:id="@+id/txtDermExfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="@string/app_DERMEXFO"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/dermExfo"
+            app:layout_constraintStart_toStartOf="@+id/dermExfo"
+            app:layout_constraintTop_toBottomOf="@+id/dermExfo" />
+
+        <TextView
+            android:id="@+id/txtGlowBoost"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="@string/app_glowboost"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/glowBoost"
+            app:layout_constraintStart_toStartOf="@+id/glowBoost"
+            app:layout_constraintTop_toBottomOf="@+id/glowBoost" />
+
+        <TextView
+            android:id="@+id/txtBeautyLotion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="@string/app_beautylotion"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/beautyLotion"
+            app:layout_constraintStart_toStartOf="@+id/beautyLotion"
+            app:layout_constraintTop_toBottomOf="@+id/beautyLotion" />
+
+        <TextView
+            android:id="@+id/txtVagicare"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="@string/app_vagicare"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/vagicare"
+            app:layout_constraintStart_toStartOf="@+id/vagicare"
+            app:layout_constraintTop_toBottomOf="@+id/vagicare" />
+
+        <TextView
+            android:id="@+id/txtSlayTheDay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="@string/app_SLAY"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/slayTheDay"
+            app:layout_constraintStart_toStartOf="@+id/slayTheDay"
+            app:layout_constraintTop_toBottomOf="@+id/slayTheDay" />
+
+        <TextView
+            android:id="@+id/txtPureInnocence"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="@string/app_SLAY"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/pureInnocence"
+            app:layout_constraintHorizontal_bias="0.479"
+            app:layout_constraintStart_toStartOf="@+id/pureInnocence"
+            app:layout_constraintTop_toBottomOf="@+id/pureInnocence" />
+
+        <TextView
+            android:id="@+id/backToHome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="200dp"
+            android:text="@string/app_BACK"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="@+id/pureInnocence"
+            app:layout_constraintHorizontal_bias="0.447"
+            app:layout_constraintStart_toStartOf="@+id/pureInnocence"
+            app:layout_constraintTop_toBottomOf="@+id/pureInnocence" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</ScrollView>

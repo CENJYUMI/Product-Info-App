@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".MainActivity">
+
+        <ImageView
+            android:id="@+id/homepage"
+            android:layout_width="410dp"
+            android:layout_height="200dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ryxhomepage" />
+
+        <TextView
+            android:id="@+id/hello"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="@string/app_Hello"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/homepage"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/homepage" />
+
+        <TextView
+            android:id="@+id/areYouReady"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="@string/app_READY"
+            app:layout_constraintEnd_toEndOf="@+id/hello"
+            app:layout_constraintStart_toStartOf="@+id/hello"
+            app:layout_constraintTop_toBottomOf="@+id/hello" />
+
+        <ImageView
+            android:id="@+id/SlayWithRyx"
+            android:layout_width="321dp"
+            android:layout_height="285dp"
+            android:layout_marginTop="8dp"
+            app:layout_constraintEnd_toEndOf="@+id/areYouReady"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="@+id/areYouReady"
+            app:layout_constraintTop_toBottomOf="@+id/areYouReady"
+            app:srcCompat="@drawable/slaywithryx" />
+
+        <TextView
+            android:id="@+id/whatIsRyx"
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="44dp"
+            android:background="#E4A3A3"
+            android:paddingTop="15dp"
+            android:text="@string/app_what"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/SlayWithRyx"
+            app:layout_constraintHorizontal_bias="0.532"
+            app:layout_constraintStart_toStartOf="@+id/SlayWithRyx"
+            app:layout_constraintTop_toBottomOf="@+id/SlayWithRyx" />
+
+        <TextView
+            android:id="@+id/Interested"
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="20dp"
+            android:background="#E4A3A3"
+            android:paddingTop="10dp"
+            android:text="@string/app_PRODUCT"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/whatIsRyx"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/whatIsRyx"
+            app:layout_constraintTop_toBottomOf="@+id/whatIsRyx" />
+
+        <TextView
+            android:id="@+id/Looking"
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="20dp"
+            android:background="#E4A3A3"
+            android:paddingTop="15dp"
+            android:text="@string/app_looking"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/Interested"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/Interested"
+            app:layout_constraintTop_toBottomOf="@+id/Interested" />
+
+        <TextView
+            android:id="@+id/wedLoveTo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="71dp"
+            android:text="@string/app_wedlove"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/Looking"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/Looking"
+            app:layout_constraintTop_toBottomOf="@+id/Looking" />
+
+        <TextView
+            android:id="@+id/Join"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="@string/app_join"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toEndOf="@+id/wedLoveTo"
+            app:layout_constraintHorizontal_bias="0.537"
+            app:layout_constraintStart_toStartOf="@+id/wedLoveTo"
+            app:layout_constraintTop_toBottomOf="@+id/wedLoveTo" />
+
+        <ImageView
+            android:id="@+id/FB"
+            android:layout_width="51dp"
+            android:layout_height="44dp"
+            android:layout_marginTop="8dp"
+            app:layout_constraintEnd_toEndOf="@+id/Join"
+            app:layout_constraintHorizontal_bias="0.291"
+            app:layout_constraintStart_toStartOf="@+id/Join"
+            app:layout_constraintTop_toBottomOf="@+id/Join"
+            app:srcCompat="@drawable/facebook" />
+
+        <ImageView
+            android:id="@+id/Insta"
+            android:layout_width="51dp"
+            android:layout_height="44dp"
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="8dp"
+            app:layout_constraintEnd_toStartOf="@+id/tiktok"
+            app:layout_constraintStart_toEndOf="@+id/FB"
+            app:layout_constraintTop_toBottomOf="@+id/Join"
+            app:srcCompat="@drawable/instagram" />
+
+        <ImageView
+            android:id="@+id/tiktok"
+            android:layout_width="51dp"
+            android:layout_height="44dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            app:layout_constraintEnd_toEndOf="@+id/Join"
+            app:layout_constraintStart_toEndOf="@+id/FB"
+            app:layout_constraintTop_toBottomOf="@+id/Join"
+            app:srcCompat="@drawable/tiktok" />
+
+        <ImageView
+            android:id="@+id/finalphoto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/Insta"
+            app:srcCompat="@drawable/ryxxxx" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</ScrollView>

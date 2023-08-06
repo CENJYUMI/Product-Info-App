@@ -1,0 +1,203 @@
+<resources>
+    <string name="app_name">APExercise77</string>
+    <string name="app_Hello">HELLO BEAUTIFUL,</string>
+    <string name="app_READY">Are you Ready to</string>
+    <string name="app_what">WHAT \nIS RYX?</string>
+    <string name="app_PRODUCT">INTERESTED \nTO TRY OUR \nPRODUCTS?</string>
+    <string name="app_wedlove">WE\'D LOVE TO TALK WITH YOU</string>
+    <string name="app_looking">LOOKING FOR A \nSELLER NEAR YOU?</string>
+    <string name="app_join">Join our fun community of ryx slayers or message us via our socials.</string>
+    <string name="app_aboutUs">ABOUT US</string>
+    <string name="app_1">Ryxskin Sincerity is a skincare brand founded out of faith in bringing the best in others. A brand that bridges the gap between skincare and selflove. Being confident in one’s own skin, and striving to be the best version of ourselves.
+Ryxskin Sincerity has grown from a dream into a passion and commitment to empower women, share opportunities and change lives. For the better. No one gets left behind. ♥️ At RyxSkin Sincerity, We embrace diversity.</string>
+    <string name="app_2">Diversity is not about how we differ. Diversity is about embracing ones uniqueness. EVERYONE should be celebrated - people from different ethnicities, culture and background. Whether you\'re plus size, curvey, skinny. Regardless of what color, body, gender, YOU MATTER!</string>
+    <string name="app_3">No one should be treated differently or lose access to opportunities just because they\'re perceived as DIFFERENT. Let’s all be proud of our skin. Let’s embrace who we are. Let’s have confidence in our identities. Let us celebrate and not separate.</string>
+    <string name="app_4">YOU ARE WORTHY. YOU ARE BEAUTIFUL.
+Together, We will continue to SLAY THE DAY! ✨ #BeautyInDiversityWithRyxSkinSincerity</string>
+    <string name="app_mission">MISSION</string>
+    <string name="app_mission1">Ryxskin Sincerity shall empower women, build confidence, share opportunities, create relationships, and change lives for the better through the following:</string>
+    <string name="app_mission2">• Develop world-class and marketable products, and distribute the same at reasonable prices;
+• Establish a community of Distributors and Resellers that is founded on respect, trust, and sustainable growth, and supporting the same through rewards and incentives;
+• Adhere to domestic and international rules, regulations, and standards;</string>
+    <string name="app_vision">VISION</string>
+    <string name="app_v1">To be a leader in delivering skincare products that change and improve the lives of its stakeholders.;</string>
+    <string name="app_core">CORE VALUES</string>
+    <string name="app_core1">The Company is committed on its mission of empowering women, building confidence, sharing opportunities, creating relationships, and changing lives for the better by embodying its core values, abbreviated as RYXSKIN:
+
+    \n\nRESPECT: We shall establish and nourish a community that is grounded on respect and camaraderie, and shall not discriminate against any person from any walk of life; embracing diversity with an open mind and an open heart. We shall value feedbacks and suggestions and use them to ensure that the brand would continue to evolve.
+
+    We shall also hold in high regard our colleagues in the industry. We shall not tolerate bullying and defamation in any of its forms, instead, we shall bravely deal and address such problems.
+
+    \n\nYOUNG: We shall ensure that our products align with the trend and hype, but in a healthy and youthful approach: passionate and flexible. We shall always push forward to innovate products that can address the growing number of skin concerns. Said approach shall also be applied whenever we communicate with our stakeholders.
+
+    \n\nEXQUISITE: We shall strive to provide our customers with top of the line products; ensuring that only the finest ingredients are used and the highest quality of processes are employed. This makes their every purchase worth every single peso (or any denomination for this matter) they worked hard for. We shall let quality and price meet in the middle.
+
+    We believe that skin care, as part of a person’s overall health, is not just a ‘want’, but a ‘need’. No one should feel sorry for loving their own self and giving what they need is the best for them.
+
+    \n\nSERVICE: We shall take care of our stakeholders: our slayers, Reseller and Distributor Community, and pool of staff by giving selfless service and benefits, which include rewards and incentives for their continuous hard work and trust.
+
+    We may not reach our own goals simultaneously, as some would achieve theirs faster than others, or some would achieve theirs in a slower pace, but RyxSkin, through its incentives and other programs, shall assist its community to grow and achieve as one.
+
+    \n\nKEEN: We shall not settle for less or rush in anything that we do. We shall ensure that each and every product that the Company releases to the consuming public, through its Reseller and Distributor Community, has undergone a meticulous research and development process.
+
+    \n\nINTEGRITY: As an online business of its kind, we believe that the image and integrity of the company is shared and carried by its officers and management, and its Reseller and Distributor Community. We shall ensure honesty and transparency in order to maintain and strengthen the trust the public has given us; providing them with only the genuine article to ensure that they only get what they deserve - the best of RyxSkin Sincerity. We are not a brand for money. More than anything, we shall value character. We are not just a business, but a family that guides dreamers to their aspirations.
+
+    \n\nNURTURE: We shall not settle and plan for the short-term, instead, we will ensure that our stakeholders would continuously grow and be empowered by helping them achieve their skin goals, life goals, and even their career goals in distributorship. We shall embrace the spirit of perseverance and shall be willing to learn and to grow to meet and exceed the identified goals.</string>
+    <string name="app_products">PRODUCTS</string>
+    <string name="app_glowbomb">GLOW BOMB</string>
+    <string name="app_radiant">RADIANT BOOST CLARIFYING SET</string>
+    <string name="app_DERMEXFO">DERM EXFOLIATOR \nILLUMINATING BODY POLISH</string>
+    <string name="app_glowboost">GLOW BOOST 100ml</string>
+    <string name="app_beautylotion">BEAUTY LOTION 200ml</string>
+    <string name="app_vagicare">VAGICARE 100ml</string>
+    <string name="app_SLAY">SLAY THE DAY PERFUME 40ml</string>
+    <string name="app_pure">PURE INNOCENCE 100ml </string>
+    <string name="app_BACK">Back to Home </string>
+    <string name="app_Description">Description </string>
+    <string name="app_glowDescription"> This expert-formulated set is packed with skin-loving ingredients that will deeply exfoliate the damaged
+top-most layer of your skin to bring out that clear, smooth new skin underneath.
+
+\n\nIt has four products formulated with a combination of active ingredients that will help clarify your skin,
+remove its impurities through peeling, and aid in Collagen production and cell turnover, giving you that
+radiant, bouncy glowing skin you’ve always wanted. It boasts of Retinyl Palmitate that reduces the
+appearance of fine lines and wrinkles, improves overall skin texture, Glycolic Acid that restores hydration
+and plumpness, Vitamin C that corrects hyperpigmentation and gives you not just that coveted youthful
+complexion but more.
+
+\n\nThe best of all? Clear Bomb is good for all skin types. Get that satisfying peeling effect that only brings
+out the best of your skin.
+Kindly follow recommended use in the packaging for optimal results. We highly recommend this product
+to be used for a limited time only for its potency to take full effect without unwanted side effects.
+
+\n\n• Glow Bomb Soap
+The first step in your Clear Bomb routine, this soap contains the potent power of Glycolic Acid, a
+scientifically proven skincare ingredient from the Apha-Hydroxy-Acid family that aids skin cell-turnover
+on a molecular level. It effectively removes dead cells and dirt to prevent it from clogging the pores to
+avoid the formation of pimples and other skin issues.
+Wet your face with water while you prepare the soap for lather. When the soap is foamy enough, gently
+wash your face and neck in a circular motion to help the product penetrate the skin. As soon as you’re
+done, wash off the soap with water and prepare for the next step. We recommend air-drying your skin to
+prevent transfer of bacteria from towel to your face. Best for everyday use.
+
+\n\n• Glow Bomb Toner
+This exfoliating toner is a powerhouse – combining the effectiveness of Salicylic Acid and Alpha Arbutin
+plus Vitamin A, C and E – that will give you the coveted clear, radiant bomb skin that glows.
+Many skin issues are caused by the build-up of dead skin cells on the surface of the skin that’s why
+exfoliating is a necessary process. One of the most remarkable benefits of Salicylic Acid is its ability to
+exfoliate the skin. It penetrates into the pores of the skin to dissolve dead skin cells and flaky skin that
+has built up on the surface of the skin and causes clogged pores. Alpha Arbutin is a gentle brightening
+agent that improves uneven skin tone, effectively fades scars and has sun protection properties.
+Best used with cotton balls/rounds and apply in an upwards motions from neck to skin to stimulate the
+skin as well. This product may cause a tolerable stinging sensation and visible peeling as it works
+through the skin.
+
+\n\n• Glow Bomb Moisturizing Cream
+Keep your skin hydrated and moisturized even when exfoliating to strengthen your skin barrier. This
+moisturizing cream combines the protection of UV filters and multiple moisturizing agents to hydrate
+and protect your sensitive skin undergoing exfoliation.
+Its non-sticky cream consistency is easy to apply and dries fast. Best to be applied during the day, every
+2 hours.
+
+\n\n• Glow Bomb Night Cream
+Boasting the power of Niacinamide, Vitamin A, C, and E, this toner is formulated with a soothing blend of
+brightening ingredients that work to reduce the appearance of dullness, uneven skin tone, and enlarged
+pores.
+\n\nNiacinamide is a water-soluble vitamin that works with the natural substances in your skin to help visibly
+minimize enlarged pores, tighten lax pores, improve uneven skin tone, soften fine lines and wrinkles,
+diminish dullness, and strengthen a weakened surface. It also reduces the impact of environmental
+damage because of its ability to improve skin’s barrier (its first line of defense), plus it also plays a role in
+helping skin to repair signs of past damage. Left unchecked, this type of daily assault makes skin appear
+older, dull, and less radiant.
+Its lightweight serum-gel consistency is perfect for the fast absorption of the skin. Use every night for
+best results. </string>
+    <string name="app_radiantDescription"> RADIANT BOOST CLARIFYING SET - Kbeauty Formulation. First in the local market. Complexion Corrector. Lightens hyperpigmentation. Oil Balancing. Pore Purifying. helps prevent acne / breakouts. Lightening &amp; Brightening! ✨
+    \n\n02 BUBBLE CLEANSER - Kbeauty Formulation. Snail Mucin palang level up na! It is known for its effectiveness pagdating sa pag fade ng hyperpigmentation. It has anti-acne &amp; anti-aging properties din. (SKL lang din Kaya best seller si Glow Bar because of this properties!)
+Aside from that It has Vitamin C &amp; Papaya Extract na known as lightening ingredients.
+AT SABI NGA NILA PARANG MAGIC, From GEL to FOAM once applied on skin. ✨ Formulated for all skin type BUT Perfect for oily skin. 🤍
+    \n\nRADIANT BOOST GINSENG TONER - Known ang KBeauty lalo na ngayon sa Ginseng. Nakakahelp ito to balance oil production and at the same time yung effect nya sa skin ay revitilizing and brightening.
+        MANDELIC ACID ay considered as HERO ingredient. It’s anti-microbial so it kills acne bacteria to combat breakouts. Mandelic acid is also a powerful antioxidant to help guard against environmental stressors and repair photodamage like dark spots.
+        As a micro-exfoliator, mandelic acid helps to smooth fine lines and encourage cell turnover.
+        Considered po siya as MILDEST &amp; GENTLEST sa AHAs family. May Vitamin C and Niacinamide din po ang toner na ito nakakahelp to lighten and brighten our skin.
+    \n\nBRIGHT &amp; LIGHT NIGHT GEL - has Maurita Flexuosa Pulp Powder AKA Cobiuty. Bongga po yan kasi Natural alternative to Retinol. Less irritating din siya. May Rice extracts din po na popular skincare ingredient due to their many benefits for the skin.
+        They help reduce UV damage, lines and wrinkles, hyperpigmentation, dead skin cells, and increase skin ceramide production. Ofcourse, Squalane helps increase hydration, and thanks to its anti-inflammatory properties, can help with acne and eczema 🤍
+    \n\nBRIGHT &amp; LIGHT TONE UP CREAM - Popular ang tone up cream sa Kbeauty kaya lagi silang Glass Skin! SPF 50. With 5 UV filters. Infused with Tomato Extract, Ceramides &amp; Allantoin! ✨✨✨ </string>
+
+    <string name="app_dermExfoDescription">
+    ✨KNOW YOUR GLOW!✨
+    Ingredient Spotlight: Croton Lechleri Resin Powder
+    AKA Dragon’s Blood 🩸
+
+    Looking timelessly healthy and young, thanks to Dragon\'s Blood, providing major antioxidant powers to the skin, with a rejuvenating effect. Kakaibang glow! Nakakabatang tignan!
+
+    This POWER ingredient can bind natural Collagen fibers which tend to break down collagen with age.
+
+    With “Dragon’s Blood”, you can maintain young and wrinkle-free skin while preventing tissue damage. 🤍
+
+    Find this in Derm Exfoliator Illuminating Body Polish and maximize benefits:
+    ✨ Moisturizing
+    ✨Anti-irritant &amp; Anti-inflammatory
+    ✨Anti-aging
+    ✨ Rejuvenating
+    ✨Collagen boosting
+    ✨Anti-wrinkle
+    ✨Anti-stretchmarks</string>
+
+    <string name="app_glowBoostDescription">✨Glow boost milky wash-with Niacinamide, Goat’s Milk , Glutathione, Alpha Arbutin
+    for Cleansing, Moisturizing, Whitening.
+
+    \n\nThe milkiest of ‘em all is here. Give your skin a healthy drink by washing your face
+and body with RyxSkin Glow Boost.
+
+\n\nDelicately made for cleansing, moisturizing, and whitening, infused with Goat Milk known for being
+rich in nutrients and being a natural exfoliant. Make
+your skin more appealing and healthier while giving it a quick refreshment.
+
+\n\nTransform your daily bath time into your favorite
+self-care routine with a face and body wash made for you.</string>
+
+    <string name="app_beautyLotionDescription"> Scientifically advanced formulated to improve complexion by reducing the development of skin blemishes and age spots. Beauty Lotion delivers tested skin lightening for different facets of delicate skin without that sticky feeling and long wait to dry.
+
+    \n\nIt has SPF 35 PA+++ with UVA/UVB protection that will wrap the skin under a sheath of moisture and broad-spectrum. Infused with natural extracts from leaf and roots like Chimaphila Umbellata Leaf Extract, Scutellaria Baicalensis Root Extract, Glycine Soja (Soybean) Seed Extract, and Angelica Acutiloba Root Extract that helps preserve skin from harmful UV rays using encapsulated organic sun shield while preventing cellulite production.
+
+    \n\nGive your skin some love with this milk-type, non-greasy and water-based lotion for extra skin nourishment and hydration.</string>
+
+
+    <string name="app_vagicareDescription">RYX Skin Vagicare has Chamomile Extract to keep the intimate part glowing! Chamomile Extract is a natural skin lightener aside from other benefits it can provide. You can see visibly that the surface of your intimate area lightens as you use RYX Skin Vagicare.
+
+    \n\nFeminine Wash / Intimate Care
+    Lactid Acid
+    Chamomile Extract
+    Glycerine
+    Guava Leaf
+    Rose Water
+    100 mL
+    \n\nFor gentle protection, all-day freshness packed with natural and skin-friendly ingredients, complete your ultimate intimate care with RYX Skin Vagicare.
+
+    \n\nOur RYX Skin Sincerity collection of Filipino Skin Care products in New Zealand includes wide range of skin care products that helps your skin feeling clean and healthy-looking.</string>
+
+    <string name="app_SlayDescription">
+        Leave an impression that lasts with “Slay the Day” Ryx Eau De Parfum infused with a heavenly blend of
+    Mandarin Orange, Honeysuckle and Magnolia. Delicately crafted from nose to bottle with a scent hailing
+    from Barcelona, Spain. This long-lasting oil-based signature of Ryx scent will keep you smelling freshly
+    elegant all day long.
+
+    \n\nCan also be used as scent diffuser at home for a floral and fruity calming aroma. Bring the best out in you
+    by spraying the good vibes without harsh chemicals, just pure love.</string>
+
+    <string name="app_PureDescription">
+        Lightest fragrance mist check? ✅✅✅
+
+    \n\nDiscover a memorable sweet scent of true love with the newest RyxSkin’s Pure Innocence Fragrance Mist!
+
+    \n\nEmbracing the aroma of vanilla and white floral with a glimpse of powdery fruity that’s very calming!
+
+    \n\nSpray whenever you want. Make a difference, show your Pure Innocence! 🤍</string>
+    <string name="app_glowBombPrice"> P300.00</string>
+    <string name="app_radiantPrice">P450.00</string>
+    <string name="app_DERMEXFOPrice">P250.00</string>
+    <string name="app_glowboostPrice">P220.00</string>
+    <string name="app_beautylotionPrice">P650.00</string>
+    <string name="app_vagicarePrice">P180.00</string>
+    <string name="app_SLAYPrice">P350.00 </string>
+    <string name="app_purePrice">P380.00 </string>
+</resources>
